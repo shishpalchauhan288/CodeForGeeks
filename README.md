@@ -2,4 +2,4 @@
 
 UI/UX Dummy page 
 
-https://shishpalchauhan288.github.io/CodeForGeeks/
+https://shishpalchauhan288.github.io/CodeForGeeks/index.html
